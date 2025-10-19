@@ -1,0 +1,20 @@
+feature;importance
+Weeks_on_chart;4028
+Points_rolling_mean_4w;2612
+Rank_change;2563
+Rank_rolling_mean_4w;2412
+Artist_Hotness;2387
+Points (Total);2253
+Rank;2120
+Valence;2109
+Points_change;1876
+Danceability;1818
+Loudness_Corrected;1810
+Acousticness;1727
+Speechiness;1665
+Energy;1610
+Points_last_week;1517
+Rank_last_week;1118
+Artist_Count;348
+Instrumentalness;336
+Nationality_Count;191

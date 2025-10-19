@@ -1,0 +1,3 @@
+OOT MAE: 10.274
+OOT R²: 0.927
+OOT Spearman: 0.962
