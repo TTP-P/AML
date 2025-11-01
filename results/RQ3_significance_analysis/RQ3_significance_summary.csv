@@ -1,2 +1,3 @@
-﻿Target;Base_Model;Enhanced_Model;N_Samples;MAE_Base;MAE_Enhanced;MAE_Improvement;Cohen_d;t_stat;p_t;w_stat;p_w
-Points_next_week;LightGBM;LightGBM_RQ1_RQ3;17651;7.605066103770158;7.600433677295897;0.004632426474261156;0.005009437253854166;0.6655391361196801;0.505714417531231;76913483.5;0.147576157425653
+version https://git-lfs.github.com/spec/v1
+oid sha256:8553a740006f906d1efd44f360a0794deb522ceeabbdd4ee12dd063469a7df6c
+size 309

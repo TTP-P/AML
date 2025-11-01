@@ -1,2 +1,3 @@
-hidden_layers,lr,dropout,alpha,activation
-"(128, 128)",0.0015,0.25,0.001,relu
+version https://git-lfs.github.com/spec/v1
+oid sha256:093d776fba3add8801435ca3c79dffa1a6cd5bc8e947dcfcb677fc17f917f438
+size 80

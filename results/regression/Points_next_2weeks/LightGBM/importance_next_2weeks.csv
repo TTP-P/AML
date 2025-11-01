@@ -1,20 +1,3 @@
-feature;importance
-Weeks_on_chart;1993
-Points_rolling_mean_4w;1247
-Rank_change;1226
-Rank_rolling_mean_4w;1180
-Rank;1144
-Points (Total);1006
-Artist_Hotness;932
-Valence;804
-Points_change;790
-Points_last_week;723
-Danceability;680
-Acousticness;646
-Loudness_Corrected;586
-Speechiness;571
-Energy;494
-Rank_last_week;463
-Instrumentalness;128
-Nationality_Count;100
-Artist_Count;92
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e132a73ccab12897de157423df4880fd3cc1af3a3b6b365a3f151ee4f55afe0
+size 392

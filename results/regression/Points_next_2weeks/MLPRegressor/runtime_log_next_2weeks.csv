@@ -1,2 +1,3 @@
-model;target;train_time_sec
-MLPRegressor;Points_next_2weeks;842.9595878124237
+version https://git-lfs.github.com/spec/v1
+oid sha256:26236921d64d3c41e606c31310a58ea2d0e29482eca92f99e181985cbf457f10
+size 80

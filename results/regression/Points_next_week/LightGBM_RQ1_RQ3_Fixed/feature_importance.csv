@@ -1,29 +1,3 @@
-Feature;Importance
-Weeks_on_chart;14925
-Rank_change;12811
-Artist_Hotness;12688
-Rank_rolling_mean_4w;11347
-Points_rolling_mean_4w;11097
-Points (Total);10595
-Rank;10149
-Valence;9807
-Acousticness;9159
-Loudness_Corrected;8998
-Danceability;8984
-Energy;8954
-Speechiness;8323
-Points_last_week;8284
-Rank_last_week;8171
-Points_change;7552
-Eigenvector_Centrality_max;5035
-Eigenvector_Centrality_mean;4937
-Community_ID;4764
-Degree_Centrality_mean;3748
-Degree_Centrality_max;2680
-Degree_Disparity;1722
-Instrumentalness;1514
-Community_Size;984
-Artist_Count;826
-Nationality_Count;411
-Cross_Community_Count;298
-Continent_Diversity;0
+version https://git-lfs.github.com/spec/v1
+oid sha256:4235b6c7c4777b5e02c97d6d38700d718337a7e0867d7e56ca7fba2abafabf3a
+size 647

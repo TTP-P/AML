@@ -1,2 +1,3 @@
-model;target;train_time_sec
-TCN_seed42;Points_next_week;2514.06791138649
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dc8282f5e00e3c5c12618c5742323db06d5af8242d5c36b2ef8a72b8ffa2ea2
+size 75

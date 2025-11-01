@@ -1,5 +1,3 @@
-Metric;Value
-MAE (Rank);12.399853890174114
-RMSE (Rank);18.252640752385688
-R2 (Rank);0.8981248214631463
-Spearman (Rank);0.9514714123329084
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdbe5792ddf1656c2cd49604bbcb2d613c7ec5c58e4df2f273b27c3a387175bc
+size 143

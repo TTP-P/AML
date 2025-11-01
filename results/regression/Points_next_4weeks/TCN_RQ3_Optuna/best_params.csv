@@ -1,2 +1,3 @@
-hidden_channels;kernel_size;dropout;lr;batch_size
-(128, 64, 32);3;0.3099475744103242;0.00038901618990417263;128
+version https://git-lfs.github.com/spec/v1
+oid sha256:416fed9dd8752a68a1becfeab3625a6302bcff24fde018c6c6554bf48e01f329
+size 114

@@ -1,5 +1,3 @@
-﻿Group;Sample_Size;MAE;R2_Score;Spearman_Correlation
-Hot Start (Seen Song & Artist);14035;6.958245540279469;0.9649063973489309;0.9812738573840987
-Warm Start (New Song, Established Artist);1332;8.773280355843076;0.9375641878372295;0.9755537588733825
-True Cold Start (New Song + New Artist);2241;10.756281788955095;0.9124464117353694;0.9589851124029539
-Artist Cold Start (Known Song, New Artist);43;17.91684270922423;0.6802286497085056;0.8339124247639416
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a3967cf99422a74a5f8f293db0ef071327c218db9bf2cb172190ccae1a9e26f
+size 460

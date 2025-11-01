@@ -1,2 +1,3 @@
-model;target;train_time_sec
-CatBoost;Points_next_week;4.513642311096191
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e6952819c075bdb637cd2868258491e118954effa6cba7dbfdff4590bec879a
+size 74
