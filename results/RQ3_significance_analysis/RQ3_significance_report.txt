@@ -1,0 +1,19 @@
+
+=== RQ3 – Significance Analysis: LightGBM vs LightGBM_RQ1_RQ3 ===
+Number of samples: 17,651
+
+Baseline MAE   : 7.60507
+Enhanced MAE   : 7.60043
+Mean Improvement (Δ) : 0.00463
+Effect size (Cohen's d) : 0.005
+
+Paired t-test : t = 0.666, p = 5.057e-01
+Wilcoxon test : W = 76913483.500, p = 1.476e-01
+
+Interpretation:
+The enhanced model (LightGBM_RQ1_RQ3) achieved a statistically non-significant 
+reduction in MAE compared to the baseline LightGBM model.
+This confirms that incorporating network and community-level features (RQ3)
+does not yield a statistically measurable improvement.
+
+(Results saved to: results/RQ3_significance_analysis\RQ3_significance_summary.csv)

@@ -1,5 +1,0 @@
-﻿Metric;Value;Description
-Average MAE (5-fold CV);7.298897194447586;5次验证的平均绝对误差，这是模型性能的稳健估计
-Std Dev of MAE (5-fold CV);0.44445399496182103;误差的标准差，衡量模型性能的稳定性，越小越好
-Average R2 (5-fold CV);0.9538176398122005;5次验证的平均R平方，衡量模型的平均解释能力
-Average Spearman Correlation;0.9762812492701126;预测排名与真实排名的一致性，越接近1越好

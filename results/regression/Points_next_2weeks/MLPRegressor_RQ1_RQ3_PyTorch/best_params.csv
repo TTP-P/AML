@@ -1,0 +1,2 @@
+hidden_layers,lr,dropout,alpha,activation
+"(128, 128)",0.0015,0.25,0.001,relu

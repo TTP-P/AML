@@ -1,0 +1,2 @@
+model;target;train_time_sec
+MLPRegressor;Points_next_4weeks;252.43727111816406
